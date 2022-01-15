@@ -1,5 +1,5 @@
 # Pizza-way
-A Full Stack Pizza Ordering Website - PIZZAHOLIC
+A Full Stack Pizza Ordering Website 
 * Through this website you can select items, add them to the cart and order them.
 * A complete Authentication procedure is also set up, for Registering and Logging of user.
 * Payment Gateway, if someone wants to pay through cards, is also added and implemented using STRIPE.
